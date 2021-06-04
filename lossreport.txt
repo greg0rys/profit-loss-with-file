@@ -1,0 +1,168 @@
+User: 
+GS 
+Amount Off:(in dollars) 
+4.00 
+Date & Time: 
+Wed Jun  2 23:10:54 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+Wed Jun  2 23:11:29 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+100.00 
+Date & Time: 
+Wed Jun  2 23:12:50 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+40.00 
+Date & Time: 
+Wed Jun  2 23:12:59 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+Wed Jun  2 23:28:07 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+Wed Jun  2 23:29:02 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+20.00 
+Date & Time: 
+Wed Jun  2 23:29:12 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+Wed Jun  2 23:48:31 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+210.00 
+Date & Time: 
+Wed Jun  2 23:51:40 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+450.00 
+Date & Time: 
+Wed Jun  2 23:53:40 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+876.00 
+Date & Time: 
+Wed Jun  2 23:56:27 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1,900.00 
+Date & Time: 
+Wed Jun  2 23:57:00 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+2,000.00 
+Date & Time: 
+Wed Jun  2 23:57:21 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1,040.00 
+Date & Time: 
+Thu Jun  3 00:00:04 2021 
+User: 
+GUEST 
+Amount Off:(in dollars) 
+900.00 
+Date & Time: 
+Thu Jun  3 00:00:26 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1,200.00 
+Date & Time: 
+Thu Jun  3 00:03:15 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1,200.00 
+Date & Time: 
+Thu Jun  3 00:04:36 2021 
+User: 
+GS 
+Amount Off:(in dollars) 
+1,100.00 
+Date & Time: 
+Thu Jun  3 00:09:08 2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+01:34AM 06-2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+01:37AM 06-2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+01:39AM 06-2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+01:39AM 06-2021 
+User: 
+GUEST 
+Amount Off:(in dollars) 
+84.75 
+Date & Time: 
+05:56PM 06-2021 
+0 
+1 
+2 
+3 
+4 
+5 
+User: 
+GUEST 
+Amount Off:(in dollars) 
+1.00 
+Date & Time: 
+11:43PM 06-2021 
+User: 
+GUEST 
+Amount Off:(in dollars) 
+150.00 
+Date & Time: 
+12:42AM 06-2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+65.00 
+Date & Time: 
+01:11AM 06-2021 
+User: 
+GREGS 
+Amount Off:(in dollars) 
+65.00 
+Date & Time: 
+01:11AM 06-2021 
